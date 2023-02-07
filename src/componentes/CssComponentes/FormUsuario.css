@@ -1,0 +1,24 @@
+.body {
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+.formularioUsuario {
+    width: 35%;
+    margin: 30px auto;
+    text-align: center;
+}
+
+.cargoESelect {
+    width: 100%;
+    height: 35px;
+    margin: 10px;
+    padding-left: 0;
+}
+
+
+.select{
+    float: left;
+}
+
