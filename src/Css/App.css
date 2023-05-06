@@ -1,0 +1,14 @@
+form{
+  width: 35%;
+  margin: 30px auto;
+  text-align: center;
+}
+
+form input{
+  margin: 5px;
+}
+
+table{
+  margin: 30px auto;
+  text-align: center;
+}
